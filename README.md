@@ -3,7 +3,7 @@
 ## Overview
 This lab is a direct continuation of Lab 5A. In the previous lab, you completed the first component in `AppBar.vue`. For this lab, you will complete the remaining two components and deploy your app using the vue-cli-service build feature.
 
-![final look](6b_ss1.png)
+![final look](instructions/6b_ss1.png)
 
 ### Functionality
 
